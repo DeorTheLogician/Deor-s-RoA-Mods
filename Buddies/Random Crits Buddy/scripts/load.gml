@@ -1,5 +1,6 @@
 pet_w = 0;			// Default: 36 (The buddy's width)
 run_speed = 0;		// Default: 3
+max_run_dist = 0;	// Default: 100 (The buddy will follow the player once their distance exceeds this value)
 
 kbg_threshold = 0.4;    //The threshold for knockback growth for a hitbox in order for a crit to be possible.
 crit_chance = 0;        //Current crit chance.
